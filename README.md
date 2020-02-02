@@ -1,5 +1,7 @@
 # All public projects
 
+В репозитории собраны все пет-проекты сгруппированные по областям деятельности.
+
 <details>
   <summary>Web</summary>
   
