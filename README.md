@@ -76,46 +76,6 @@
 
 </details>   
 
-
-## [Список всех моих проектов][ListAllMyProject]
-
-License
-----
-MIT
-
-[Pmobi]:<https://pmobi.ru/>
-
-[PurePHPFirstSite]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/first_site>
-[PurePHPVedomost]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/vedomost>
-[BadSPA]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/bad_spa>
-[PurePHPSandbox]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/sandbox>
-[MailCheck]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/mail_check>
-[HandbookPostgresql]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/handbook_postgresql>
-[ShvecTheory]:<https://github.com/iebrosalin/public_web/tree/backend/theory/shvec>
-[Drafts]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/drafts>
-
-[EliseevLaravelMasterClass]:<https://github.com/iebrosalin/public_web/tree/backend/laravel/eliseev>
-[AfanasyevSeason1]:<https://github.com/iebrosalin/public_web/tree/backend/laravel/afanasyev/season1>
-[AfanasyevSeason2]:<https://github.com/iebrosalin/public_web/tree/backend/laravel/afanasyev/season2>
-[AfanasyevPatterns]:<https://github.com/iebrosalin/public_web/tree/backend/laravel/afanasyev/patterns>
-
-[Yii2Theory]:<https://github.com/iebrosalin/public_web/tree/backend/yii2/theory>
-[Yii2Practice]:<https://github.com/iebrosalin/public_web/tree/backend/yii2/practice>
-
-[ZfTherory]:<https://github.com/iebrosalin/public_web/tree/backend/zf/theory>
-
-[Bitrix]:<https://github.com/iebrosalin/public_web/tree/backend/bitrix>
-[SymphonyNewsCrud]:<https://github.com/iebrosalin/public_web/tree/backend/symphony/news_crud_panel>
-
-[FormWS]:<https://github.com/iebrosalin/public_web/tree/frontend/form_websocket>
-[ToDo]:<https://github.com/iebrosalin/public_web/tree/frontend/react/bura/todo>
-[StarWarsWiki]:<https://github.com/iebrosalin/public_web/tree/frontend/react/bura/star-wars-db>
-[ReStore]:<https://github.com/iebrosalin/public_web/tree/frontend/react/bura/re-store>
-[SandboxBuild]:<https://github.com/iebrosalin/public_web/tree/frontend/sandbox-build>
-[ReactHooks]:<https://github.com/iebrosalin/public_web/tree/frontend/react/bura/hooks>
-
-[ListAllMyProject]:<https://github.com/iebrosalin/all_public_projects>
-[ReactCourse]:<https://www.udemy.com/course/pro-react-redux/>
 </details>  
 
 <details>
@@ -160,6 +120,46 @@ Flutter-разработка была основной моей деятельс
 | [Stopwatch][Stopwatch]          | заморожен            | смартфоны         |
 </details>
 
+
+## [Список всех моих проектов][ListAllMyProject]
+
+License
+----
+MIT
+
+[Pmobi]:<https://pmobi.ru/>
+
+[PurePHPFirstSite]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/first_site>
+[PurePHPVedomost]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/vedomost>
+[BadSPA]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/bad_spa>
+[PurePHPSandbox]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/sandbox>
+[MailCheck]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/mail_check>
+[HandbookPostgresql]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/handbook_postgresql>
+[ShvecTheory]:<https://github.com/iebrosalin/public_web/tree/backend/theory/shvec>
+[Drafts]:<https://github.com/iebrosalin/public_web/tree/backend/pure_php/drafts>
+
+[EliseevLaravelMasterClass]:<https://github.com/iebrosalin/public_web/tree/backend/laravel/eliseev>
+[AfanasyevSeason1]:<https://github.com/iebrosalin/public_web/tree/backend/laravel/afanasyev/season1>
+[AfanasyevSeason2]:<https://github.com/iebrosalin/public_web/tree/backend/laravel/afanasyev/season2>
+[AfanasyevPatterns]:<https://github.com/iebrosalin/public_web/tree/backend/laravel/afanasyev/patterns>
+
+[Yii2Theory]:<https://github.com/iebrosalin/public_web/tree/backend/yii2/theory>
+[Yii2Practice]:<https://github.com/iebrosalin/public_web/tree/backend/yii2/practice>
+
+[ZfTherory]:<https://github.com/iebrosalin/public_web/tree/backend/zf/theory>
+
+[Bitrix]:<https://github.com/iebrosalin/public_web/tree/backend/bitrix>
+[SymphonyNewsCrud]:<https://github.com/iebrosalin/public_web/tree/backend/symphony/news_crud_panel>
+
+[FormWS]:<https://github.com/iebrosalin/public_web/tree/frontend/form_websocket>
+[ToDo]:<https://github.com/iebrosalin/public_web/tree/frontend/react/bura/todo>
+[StarWarsWiki]:<https://github.com/iebrosalin/public_web/tree/frontend/react/bura/star-wars-db>
+[ReStore]:<https://github.com/iebrosalin/public_web/tree/frontend/react/bura/re-store>
+[SandboxBuild]:<https://github.com/iebrosalin/public_web/tree/frontend/sandbox-build>
+[ReactHooks]:<https://github.com/iebrosalin/public_web/tree/frontend/react/bura/hooks>
+
+[ListAllMyProject]:<https://github.com/iebrosalin/all_public_projects>
+[ReactCourse]:<https://www.udemy.com/course/pro-react-redux/>
 
 [FirstApp]:<https://github.com/iebrosalin/mobile/tree/flutter/first_app_flutter>
 [OldCatalog]:<https://github.com/iebrosalin/mobile/tree/flutter/catalog_app/old>
