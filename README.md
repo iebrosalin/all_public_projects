@@ -120,9 +120,6 @@ Flutter-разработка была основной моей деятельс
 | [Stopwatch][Stopwatch]          | заморожен            | смартфоны         |
 </details>
 
-
-## [Список всех моих проектов][ListAllMyProject]
-
 License
 ----
 MIT
